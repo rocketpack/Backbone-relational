@@ -1,5 +1,5 @@
 {
-  "name"          : "backbone-rel",
+  "name"          : "backbone-relational",
   "description"   : "Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models",
   "keywords"      : ["Backbone", "relation", "nested", "model"],
   "repository"    : "git://github.com/PaulUithol/Backbone-relational.git",
